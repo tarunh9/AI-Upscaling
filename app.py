@@ -25,7 +25,7 @@ st.write("")
 if st.button("Submit"):
     with st.spinner("Upscaling image..."):
         model = generator()
-        model.load_weights('weights/srgan/gan_generator.h5')
+        model.load_weights('weights/srgan/weights_final.h5')
         lr = load_image(upload)
         sr = resolve_single(model, lr)
     st.subheader("Comparison")
