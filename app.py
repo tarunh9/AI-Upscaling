@@ -35,17 +35,7 @@ if st.button("Submit"):
     st.write("Original Image: ",lp,"pixels")
     st.write("Upscaled Image: ",sp,"pixels")
 
-
 st.text("")
-st.text("")
-st.text("")
-st.text("")
-st.text("")
-st.text("")
-st.text("")
-
-
-
 
 st.write("Designed and Developed by **Tarun Venkatesh H**")
 hide_streamlit_style = """
