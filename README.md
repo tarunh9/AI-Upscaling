@@ -8,4 +8,3 @@ AI model that upscales lower-resolution images to higher resolution images using
 <img src ="https://github.com/tarunh9/AI-Upscaling/blob/master/demo/demo_git.png">
 </p>
 <br>
-Working on upgrading the model to handle video upscaling.
