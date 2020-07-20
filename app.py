@@ -1,6 +1,5 @@
 from model.srgan import generator
 from model import resolve_single
-from model.edsr import edsr
 from utils import load_image, plot_sample
 from PIL import Image
 import numpy as np
